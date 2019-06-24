@@ -25,8 +25,9 @@ the Python(3) programming language. Specifically, we will look at
   * Useful links:
     * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
     * [mybinder.org](https://gke.mybinder.org/) Turn a Git repo into an interactive notebook
-    * [JupyterLab](https://github.com/jupyterlab/jupyterlab) (part of) the future for Jupyter Notebooks
-
+    * [Jupyter Blog](https://blog.jupyter.org/)
+    * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+    * [JupyterLab](https://github.com/jupyterlab/jupyterlab) (part of) the future for Jupyter
 
 We will then use some popular Python packages (Pandas, Numpy, Sympy, ...)
 to work through a series of examples and exercises to see how they can be used
