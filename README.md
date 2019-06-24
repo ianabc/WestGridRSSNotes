@@ -10,7 +10,7 @@ the [jupyter notebook](https://jupyter-notebook.readthedocs.io/en/stable/) and
 the Python(3) programming language. Specifically, we will look at
 
   * [Notebooks](./notebooks/): Markdown, Code, Output, widgets, %magics
-  * [Python](./python/): syntax: Structures, Loops, Control Flow, Logic
+  * [Python](./python/): Types, Structures, Loops, Control Flow, Logic
   * Some useful modules
     - [numpy](./numpy/)
     - [matplotlib](./matplotlib/)
@@ -24,7 +24,7 @@ the Python(3) programming language. Specifically, we will look at
     - [Text analysis](./examples/entropy/)
   * Useful links:
     * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
-    * [mybinder.org](Turn a Git repo into an interactive notebook)
+    * [mybinder.org](https://gke.mybinder.org/) Turn a Git repo into an interactive notebook
     * [JupyterLab](https://github.com/jupyterlab/jupyterlab) (part of) the future for Jupyter Notebooks
 
 
