@@ -10,24 +10,16 @@ the [jupyter notebook](https://jupyter-notebook.readthedocs.io/en/stable/) and
 the Python(3) programming language. Specifically, we will look at
 
   * [Notebooks](./notebooks/): Markdown, Code, Output, widgets, %magics
-    - Project history and motivations
-    - tab completion
-    - keyboard shortcuts
-    - history management
-    - help functionality
-    - source code examination
-  * [Python](./python/) syntax: Structures, Loops, Control Flow, Logic
-    - Encapsulation, modules and packages
-    - Generators?
-    - Idioms
+  * [Python](./python/): syntax: Structures, Loops, Control Flow, Logic
   * Some useful modules
     - [numpy](./numpy/)
     - [matplotlib](./matplotlib/)
     - [pandas](./pandas/)
-    - Others (not covered)
-      - beautiful soup
-      - domain specific: astropy, nltk, ...
+    - Others (not covered here)
+      - [beautiful soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+      - domain specific: [astropy](https://www.astropy.org/), [nltk](https://www.nltk.org/), ...
   * Examples
+    - [GitHub + APIs](./examples/github/)
     - [Sympy + Widgets](./examples/sympyAndWidgets/)
     - [Text analysis](./examples/entropy/)
   * Useful links:
@@ -43,8 +35,3 @@ create compelling showcases of your work.
 
 This course does not have any firm requirements, but some familiarity with
 Python would be helpful.
-
-- Information Entropy Examples, compressing books
-- Sympy interactive examples, series expansion
-- Maps examples
-- Matplotlib + altair
