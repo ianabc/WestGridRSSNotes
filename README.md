@@ -7,7 +7,7 @@ The [Jupyter ecosystem](https://jupyter.org) is a rich environment for
 interactive computing which provides intuitive and powerful tools for
 data-analysis, computation and collaboration. We will explore the features of
 the [jupyter notebook](https://jupyter-notebook.readthedocs.io/en/stable/) and
-the Python(3) programming language. Specifically, we will look at
+the Python(3) programming language. Specifically, we will look at:
 
   * [Notebooks](./notebooks/): Markdown, Code, Output, widgets, %magics
   * [Python](./python/): Types, Structures, Loops, Control Flow, Logic
@@ -29,7 +29,7 @@ the Python(3) programming language. Specifically, we will look at
     * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
     * [JupyterLab](https://github.com/jupyterlab/jupyterlab) (part of) the future for Jupyter
 
-We will then use some popular Python packages (Pandas, Numpy, Sympy, ...)
+We will use some popular Python packages (Pandas, Numpy, Sympy, ...)
 to work through a series of examples and exercises to see how they can be used
 to work with external data sources, produce insights and visualizations and help
 create compelling showcases of your work.
