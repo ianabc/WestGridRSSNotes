@@ -9,7 +9,7 @@ data-analysis, computation and collaboration. We will explore the features of
 the [jupyter notebook](https://jupyter-notebook.readthedocs.io/en/stable/) and
 the Python(3) programming language. Specifically, we will look at:
 
-  * [Notebooks](./notebooks/): Markdown, Code, Output, widgets, %magics
+  * [Notebooks](./notebook/): Markdown, Code, Output, widgets, %magics
   * [Python](./python/): Types, Structures, Loops, Control Flow, Logic
   * Some useful modules
     - [numpy](./numpy/)
